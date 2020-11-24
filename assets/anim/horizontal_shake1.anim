@@ -1,0 +1,54 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "horizontal_shake1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "x": [
+        {
+          "frame": 0,
+          "value": 0,
+          "curve": "linear"
+        },
+        {
+          "frame": 0.05,
+          "value": 30
+        },
+        {
+          "frame": 0.1,
+          "value": 0
+        },
+        {
+          "frame": 0.15,
+          "value": -30
+        },
+        {
+          "frame": 0.2,
+          "value": 0
+        },
+        {
+          "frame": 0.25,
+          "value": 30
+        },
+        {
+          "frame": 0.3,
+          "value": 0
+        },
+        {
+          "frame": 0.35,
+          "value": -30
+        },
+        {
+          "frame": 0.4,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

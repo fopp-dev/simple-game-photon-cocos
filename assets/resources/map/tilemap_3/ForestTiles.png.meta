@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "f07ba1cc-a0b2-4d48-8389-85f059b4edeb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1900,
+  "height": 100,
+  "platformSettings": {},
+  "subMetas": {
+    "ForestTiles": {
+      "ver": "1.0.4",
+      "uuid": "37dc6a10-1141-43e0-ae01-97ebed51d3dd",
+      "rawTextureUuid": "f07ba1cc-a0b2-4d48-8389-85f059b4edeb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -11.5,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1877,
+      "height": 100,
+      "rawWidth": 1900,
+      "rawHeight": 100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
